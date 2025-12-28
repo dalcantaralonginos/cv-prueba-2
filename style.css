@@ -1,0 +1,11 @@
+body{font-family:Arial;background:#0f172a;color:white;text-align:center}
+.line{
+  border-left:3px solid #38bdf8;
+  margin:40px auto;
+  width:300px;
+}
+.event{
+  margin:30px;
+  padding:10px;
+  background:#020617;
+}
